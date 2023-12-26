@@ -1,1 +1,1 @@
-npm instal readline-sync
+npm install readline-sync
